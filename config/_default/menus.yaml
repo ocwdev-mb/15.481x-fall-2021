@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-275264354-1692798810110
+  name: Online Course
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.481x+1T2021/about
+  weight: 10
