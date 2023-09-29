@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Business Ethics"
+    ],
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Business",
+      "Marketing"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "744a26f3-c3cf-9dd6-bd52-a8d351dbfc8e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f5e8ee2d-34dc-4a90-abb2-5fd20895d317",
+    "website": "adaptive-markets-financial-market-dynamics-and-human-behavior"
+  },
+  "course_title": "Adaptive Markets: Financial Market Dynamics and Human Behavior",
+  "hide_download": true,
+  "course_description": "Economists can\u2019t agree on whether investors and markets are rational and efficient, as modern financial theory assumes, or irrational and inefficient, as behavioral economists believe. Drawing on psychology, evolutionary biology, neuroscience, artificial intelligence, and other fields, Prof. Lo cuts through the debate in this course with a new framework\u2014the Adaptive Markets Hypothesis\u2014in which rationality and irrationality coexist.\n\nTopics:\n\n- Introduction and Financial Orthodoxy\n- Rejecting the Random Walk and Efficient Markets\n- Behavioral Biases and Psychology\n- The Neuroscience of Decision-Making\n- Evolution and the Origin of Behavior\n- The Adaptive Markets Hypothesis\n- Hedge Funds: The Galapagos Islands of Finance\n- Applications of Adaptive Markets\n- The Financial Crisis\n- Ethics and Adaptive Markets\n- The Finance of the Future and the Future of Finance\n\nAs part of the [Open Learning Library (OLL)](https://openlearninglibrary.mit.edu/), this course is free to use. You have the option to sign up and enroll if you want to track your progress, or you can view and use all the materials without enrolling. Resources on OLL allow learners to learn at their own pace while receiving immediate feedback through interactive content and exercises.",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "15.481",
+  "primary_course_number": "15.481x",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "adaptive-markets-financial-market-dynamics-and-human-behavior"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Tutorial Videos",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "67528658-4da5-497d-a590-bcac237658fb",
+  "site_short_id": "15.481x-fall-2021"
+}
